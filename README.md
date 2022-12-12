@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cpfem
+- 👀 I’m interested in crystal plasticity finite element method
+- 🌱 I’m currently learning phase field
+- 💞️ I’m looking to collaborate on additive manufacturing
+- 📫 How to reach me: xinxin.s@nus.edu.sg
